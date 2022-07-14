@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bartłomiej
 ### Junior Back-end Developer
 
-- 📫 How to reach me **bartlomiej.was@10g.pl**
+- 📫 How to reach me **bartlomiej_was@onet.pl**
 
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
