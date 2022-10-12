@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bartłomiej
-### Junior Back-end Developer
+### Enthusiast Developer
 
 - 📫 How to reach me **bartlomiej_was@onet.pl**
 
