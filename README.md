@@ -9,7 +9,6 @@
 
 ### Tools
 [<img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=2ca5e0" alt="docker"/>](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/Heroku-333?style=for-the-badge&logo=heroku&logoColor=fff" alt="heroku"/>](https://www.heroku.com/)
 [<img src="https://img.shields.io/badge/json-333?style=for-the-badge&logo=json&logoColor=5e5c5c" alt="json"/>](https://www.json.org/)
 [<img src="https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=4ea94b" alt="mongodb"/>](https://www.mongodb.com/)
 [<img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="nodejs"/>](https://nodejs.org/)
