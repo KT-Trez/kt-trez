@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bartłomiej
-#### Enthusiast Developer
+#### Junior Frontend Developer
 
 ### Languages
 [<img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
